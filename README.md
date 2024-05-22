@@ -1,0 +1,1 @@
+Interface implementation using collectionView and pageControll
